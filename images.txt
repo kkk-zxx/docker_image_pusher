@@ -4,8 +4,9 @@ python:3
 python:alpine3.19
 python:3.10.15
 alpine
-ubuntu:22.01
-centos
+ubuntu:22.10
+centos:7
+golang:1.21.11
 #支持私库
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64
