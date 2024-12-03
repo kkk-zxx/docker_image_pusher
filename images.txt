@@ -1,2 +1,2 @@
---platform=arm64 python:3.11
+--platform=x86 python:3.11
 
