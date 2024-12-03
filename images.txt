@@ -1,3 +1,2 @@
---platform=arm64 coturn/coturn
-
+--platform=arm64 python:3.11
 
