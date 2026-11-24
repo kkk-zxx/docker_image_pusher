@@ -1,1 +1,1 @@
-cancergary/lark-url-preview-public-next
+crossdesk/crossdesk-server:latest
